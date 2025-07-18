@@ -72,7 +72,7 @@
 ## 🚀 Goals for 2025 | Metas para 2025
 
 - ✅ Finish Ethical Hacker Certification by Cisco NetAcad
-- 🧠 Pass CompTIA Security+ (SY0-601)
+- 🧠 Pass CompTIA Security+ 
 - 🔵 Transition to a Blue Team role
 - 🧪 Participate in CTFs and HackTheBox challenges
 - 🔓 Contribute to open source cybersecurity tools
