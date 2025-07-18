@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-✨ Creating bugs since 2015 (e corrigindo muitos desde então)<br>
+✨ Creating bugs... and learning from every single one since 2015<br>
 📚 I'm currently learning Kali Linux, Burp Suite, análise de vulnerabilidades e ferramentas de pentest<br>
 🎯 Goals: Obter a certificação CompTIA Security+, migrar para área de Blue Team e contribuir com projetos de segurança<br>
 🎲 Fun fact: Já trabalhei no Hard Rock Cancun 🌴, hoje invado máquinas virtualizadas por diversão ⚡
