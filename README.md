@@ -82,8 +82,8 @@
 
 ## 📫 How to reach me | Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-Jean%20Arnaud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/seu-perfil)](https://linkedin.com/in/seu-perfil)  
-📧 jeandiogoarnaud@email.com  
+[![LinkedIn](https://img.shields.io/badge/-Jean%20Arnaud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/jean-arnaud-89b49a34b/)](https://www.linkedin.com/in/jean-arnaud-89b49a34b/))](https://linkedin.com/in/seu-perfil)  
+📧 jeandiogoarnaud@gmail.com  
 🌎 Based in Rio de Janeiro, Brazil
 
 ---
